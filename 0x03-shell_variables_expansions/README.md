@@ -1,2 +1,3 @@
 The first script creates an alias
 The second script prints hello user
+The third script add /action to the PATH
