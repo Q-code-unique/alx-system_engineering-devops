@@ -10,3 +10,4 @@ The ninth script prints the result of the addition of 128 with the value stored 
 The tenth script prints the result of POWER divided by DIVIDE, followed by a new line.
 The eleventh script displays the result of BREATH to the power LOVE
 The twelveth script converts a number from base 2 to base 10.
+The thirteenth script prints all possible combinations of two letters, except oo.
