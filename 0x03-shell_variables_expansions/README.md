@@ -8,3 +8,4 @@ The seventh script create new local variable
 The eighth script create new global variable
 The ninth script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 The tenth script prints the result of POWER divided by DIVIDE, followed by a new line.
+The eleventh script displays the result of BREATH to the power LOVE
