@@ -5,3 +5,4 @@ The fourth script count the number of directories in the PATH
 The fifth script lists environment variables
 The sixth script lists all local variables and environment variables, functions
 The seventh script create new local variable
+The eighth script create new global variable
